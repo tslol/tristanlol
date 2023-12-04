@@ -23,7 +23,7 @@
                     <!-- navbar items -->
                     <a href="#about" class="navbar-item has-text-weight-medium">About</a>
                     <a href="#projects" class="navbar-item has-text-weight-medium">Projects</a>
-                    <a href="#" class="navbar-item has-text-weight-medium">Blog</a>
+                    <a href="tristanlol.medium.com" class="navbar-item has-text-weight-medium">Blog</a>
                     <a href="mailto:tristanjschlarman@gmail.com" class="navbar-item has-text-weight-medium">Contact</a>
                 </div>
             </div>

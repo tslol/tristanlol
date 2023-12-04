@@ -10,22 +10,22 @@
 
             <div class="columns is-centered pt-6">
                 <div class="column is-half">
-                    <a href="#" class="has-text-primary is-size-3 px-5">
+                    <a href="https://github.com/tslol" class="has-text-primary is-size-3 px-5">
                         <span class="icon">
                             <i class="fa-brands fa-github"></i>
                         </span>
                     </a>
-                    <a href="#" class="has-text-primary is-size-3 px-5">
+                    <a href="https://x.com/t_schlarman" class="has-text-primary is-size-3 px-5">
                         <span class="icon">
                             <i class="fa-brands fa-square-x-twitter"></i>
                         </span>
                     </a>
-                    <a href="#" class="has-text-primary is-size-3 px-5">
+                    <a href="https://linkedin.com/in/tschlarman" class="has-text-primary is-size-3 px-5">
                         <span class="icon">
                             <i class="fa-brands fa-linkedin"></i>
                         </span>
                     </a>
-                    <a href="#" class="has-text-primary is-size-3 px-5">
+                    <a href="https://www.producthunt.com/@tristan_schlarman" class="has-text-primary is-size-3 px-5">
                         <span class="icon">
                             <i class="fa-brands fa-product-hunt"></i>
                         </span>
