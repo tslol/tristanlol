@@ -1,0 +1,40 @@
+@charset "utf-8";
+//@import "bulma/bulma.sass";
+
+$family-sans-serif: "Graphik LCG", sans-serif;
+$grey: #222831;
+$mint: #00ADB5;
+$offwhite: #F2F2F2;
+$grey-light: #E1E1E1;
+$offgrey:#5A5F67;
+
+$dark: $grey;
+$primary: $dark;
+$text: $dark;
+$light: $grey-light;
+$link: $mint;
+
+$body-background-color: $offwhite;
+$navbar-background-color: transparent;
+$navbar-item-hover-background-color: transparent;
+$navbar-item-hover-color: $mint;
+$tag-background-color: $light;
+
+.weird-tab {
+    background-color:$mint;
+    width:50px;
+    border-radius:99px;
+    height:10px;
+    margin:0 auto;
+}
+.has-text-offgrey { color: $offgrey; }
+
+@import "bulma/sass/utilities/_all.sass";
+@import "bulma/sass/grid/_all.sass";
+@import "bulma/sass/base/_all.sass";
+@import "bulma/sass/helpers/_all.sass";
+@import "bulma/sass/elements/_all.sass";
+@import "bulma/sass/form/_all.sass";
+@import "bulma/sass/components/navbar.sass";
+@import "bulma/sass/layout/hero.sass";
+@import "bulma/sass/layout/section.sass";
