@@ -8,7 +8,7 @@
             <div class="columns is-mobile is-centered">
                 <div class="column is-narrow">
                     <div class="buttons are-medium">
-                        <a href="#" class="button is-primary has-text-weight-bold">Let's Chat</a>
+                        <a href="mailto:tristanjschlarman@gmail.com" class="button is-primary has-text-weight-bold">Let's Chat</a>
                         <a href="#projects" class="button is-light has-text-weight-bold ml-2">Projects</a>
                     </div>
                 </div>
